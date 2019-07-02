@@ -1,3 +1,5 @@
+Part of Capture the Flag
+
 Clue #2: What is the national language in the nation where the mountain is located?
 バナナ
 Clue #3: Go back to where you started. Then, get to the image.
